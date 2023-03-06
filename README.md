@@ -20,7 +20,7 @@ Maven
 
 PostgreSql
 
-MySqlgit gggggggg
+MySql
 
 ## Endpoints
 
