@@ -1,5 +1,27 @@
 # Microservice Course
 
+## App Architecture
+
+![architecure image](img.png)
+
+##### **fronted available in the [repo](https://github.com/devgithinji/course-purchase-microservice-frontend)**
+
+Techologies used
+
+Spring Boot
+
+Spring Cloud Gateway
+
+Spring Cloud OpenFeign
+
+Spring Cloud Netflix (Dicovery service)
+
+Maven
+
+PostgreSql
+
+MySqlgit gggggggg
+
 ## Endpoints
 
 ### Save Course
